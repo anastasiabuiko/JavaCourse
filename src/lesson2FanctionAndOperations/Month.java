@@ -1,4 +1,4 @@
-package lesson2;
+package lesson2FanctionAndOperations;
 
 import java.util.Scanner;
 
